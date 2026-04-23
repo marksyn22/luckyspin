@@ -1,6 +1,6 @@
 # 实战案例分享：Winbox 幸运大转盘 (Spin Wheel) 抽奖页面
 
-最近有幸受 **[Winbox](https://login.winboxmalay.com)** 委托，为其开发并上线了一款幸运大转盘（Spin Wheel）交互页面。该项目已在生产环境稳定运行了一段时间，并取得了预期的业务反馈。
+最近有幸受 **[Winbox](https://login.winboxmalay.com)** 委托，为其开发并上线了一款幸运大转盘（Spin Wheel）交互页面。该项目已在生产环境稳定运行了一段时间，并取得了预期的业务反馈。实时业务页面 **[Winbox Lucky Wheel](https://login.winboxmalay.com/lucky-wheel)**
 
 为了回馈社区，我决定将其中核心的实现逻辑与代码进行精简分享。
 
